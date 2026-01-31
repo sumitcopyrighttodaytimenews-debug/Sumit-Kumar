@@ -1,0 +1,7 @@
+{
+  "name": "VisionOMR - Real-time Digital OMR Checker",
+  "description": "A professional AI-powered OMR checking system that uses Gemini Vision to detect filled bubbles and calculate scores in real-time.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
